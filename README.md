@@ -1,6 +1,8 @@
 # Papers
 Articles accumulated by the 360Quake team.
 
+https://quake.360.cn/quake/#/report
+
 | Title                                            | Date       |
 | ------------------------------------------------ | ---------- |
 |浅析 CobaltStrike钓鱼网站检测                     |2021-06-11|
